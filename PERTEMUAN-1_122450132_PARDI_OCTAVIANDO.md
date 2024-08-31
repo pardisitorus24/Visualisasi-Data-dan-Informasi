@@ -29,5 +29,5 @@ Artikel ini membahas peran krusial visualisasi data dalam era bisnis yang sangat
 5. Evaluasi dan Perbandingan Metode Visualisasi:
 - Artikel ini juga mencakup evaluasi terhadap survei-survei sebelumnya tentang visualisasi, yang umumnya hanya fokus pada topik spesifik seperti visualisasi grafis atau data multidimensi. Artikel ini menawarkan perspektif yang berbeda dengan mengulas teknik-teknik dari sudut pandang yang lebih holistik, termasuk bahasa spesifikasi visualisasi, metode efisiensi, dan rekomendasi visualisasi.
 
-Dengan menguraikan berbagai pendekatan yang digunakan dalam visualisasi data, jurnal ini menekankan pentingnya kolaborasi antara komunitas grafis komputer, visualisasi, dan basis data. Kolaborasi ini telah berkontribusi pada pengembangan teknologi visualisasi yang lebih canggih, yang tidak hanya membuat visualisasi data lebih efisien dan efektif, tetapi juga lebih mudah diakses oleh pengguna dari berbagai latar belakang. Selain itu, rekomendasi visualisasi yang cerdas dan personalisasi membantu pengguna dalam menavigasi kompleksitas data dengan lebih mudah, menjadikan proses eksplorasi data lebih intuitif dan bermanfaat.
+
 
